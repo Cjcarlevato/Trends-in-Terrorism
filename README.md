@@ -1,4 +1,4 @@
-# [Trends in Terrorism Shiny App]: (https://cjcarlevato.shinyapps.io/Trends_In_Terrorism/) 
+# [Trends in Terrorism Shiny App](https://cjcarlevato.shinyapps.io/Trends_In_Terrorism/) 
 
 ## Central Questions App Attempts to Answer:
 ### 1. Has terrorism been increasing or decreasing in the last 50 years?
